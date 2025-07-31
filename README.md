@@ -64,9 +64,9 @@ Features: restaurant name, location, cuisines, average cost, online order availa
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/zomato-data-analysis.git
+git clone https://github.com/krzhnaa/Zomato(data science).git
 cd zomato-data-analysis
-pip install -r requirements.txt
+install required libraries
 ▶️ Usage
 Run the Jupyter notebook:
 
