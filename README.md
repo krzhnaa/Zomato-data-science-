@@ -66,7 +66,7 @@ Features: restaurant name, location, cuisines, average cost, online order availa
 bash
 Copy
 Edit
-git clone https://github.com/krzhnaa/Zomato(data science).git
+git clone https://github.com/krzhnaa/Zomato-data-science.git
 cd zomato-data-analysis
 install required libraries
 ▶️ Usage
