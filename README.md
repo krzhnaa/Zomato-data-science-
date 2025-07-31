@@ -23,9 +23,6 @@ Clean columns like 'rate' and 'cost' by removing special characters and converti
 
 Remove outliers using Z-score or IQR method.
 
-<img width="1041" height="713" alt="Screenshot 2025-07-31 124756" src="https://github.com/user-attachments/assets/f1d67049-fb95-4bb9-9c90-6d36c28ac4a4" />
-
-
 3. Exploratory Data Analysis (EDA)
 Top cuisines, top-rated restaurants, cost distributions, online orders, table booking.
 
@@ -103,6 +100,11 @@ Integrate live data from Zomato’s API (if available).
 
 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
+
+visualization:- 
+
 <img width="1029" height="636" alt="Screenshot 2025-07-31 124731" src="https://github.com/user-attachments/assets/53b9703f-1248-4f25-a6da-945dee559699" />
+
+<img width="1041" height="713" alt="Screenshot 2025-07-31 124756" src="https://github.com/user-attachments/assets/f1d67049-fb95-4bb9-9c90-6d36c28ac4a4" />
 
 <img width="1041" height="713" alt="Screenshot 2025-07-31 124756" src="https://github.com/user-attachments/assets/f1d67049-fb95-4bb9-9c90-6d36c28ac4a4" />
