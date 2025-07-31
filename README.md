@@ -4,9 +4,13 @@ Zomato Restaurant Data Analysis using Python & Pandas
 📌 Overview
 This project explores and analyzes restaurant data from Zomato using Python. It focuses on extracting insights related to locations, cuisines, ratings, and cost. It includes data cleaning, exploratory data analysis (EDA), and visualizations to discover patterns and trends in the restaurant industry.
 
+<img width="1038" height="728" alt="Screenshot 2025-07-31 124718" src="https://github.com/user-attachments/assets/1d8cf525-3d84-4bd3-870d-9f0c5f331ddb" />
+
 ⚙️ Methodology & Working
 1. Data Loading
 Load the Zomato dataset (CSV format).
+
+<img width="1029" height="636" alt="Screenshot 2025-07-31 124731" src="https://github.com/user-attachments/assets/53b9703f-1248-4f25-a6da-945dee559699" />
 
 Inspect basic structure: number of rows, columns, data types.
 
@@ -20,6 +24,9 @@ Convert categorical variables (like 'online_order', 'book_table') to binary nume
 Clean columns like 'rate' and 'cost' by removing special characters and converting to float/integer.
 
 Remove outliers using Z-score or IQR method.
+
+<img width="1041" height="713" alt="Screenshot 2025-07-31 124756" src="https://github.com/user-attachments/assets/f1d67049-fb95-4bb9-9c90-6d36c28ac4a4" />
+
 
 3. Exploratory Data Analysis (EDA)
 Top cuisines, top-rated restaurants, cost distributions, online orders, table booking.
