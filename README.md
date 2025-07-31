@@ -10,8 +10,6 @@ This project explores and analyzes restaurant data from Zomato using Python. It 
 1. Data Loading
 Load the Zomato dataset (CSV format).
 
-<img width="1029" height="636" alt="Screenshot 2025-07-31 124731" src="https://github.com/user-attachments/assets/53b9703f-1248-4f25-a6da-945dee559699" />
-
 Inspect basic structure: number of rows, columns, data types.
 
 2. Data Preprocessing
@@ -105,3 +103,6 @@ Integrate live data from Zomato’s API (if available).
 
 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
+<img width="1029" height="636" alt="Screenshot 2025-07-31 124731" src="https://github.com/user-attachments/assets/53b9703f-1248-4f25-a6da-945dee559699" />
+
+<img width="1041" height="713" alt="Screenshot 2025-07-31 124756" src="https://github.com/user-attachments/assets/f1d67049-fb95-4bb9-9c90-6d36c28ac4a4" />
